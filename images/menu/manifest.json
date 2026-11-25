@@ -1,0 +1,2195 @@
+{
+  "generatedBy": "scripts/extract-prototype.mjs lineage — one-off download, no re-encoding",
+  "license": {
+    "name": "Unsplash License",
+    "url": "https://unsplash.com/license",
+    "summary": "Free to download, copy, modify and distribute, including commercially. Attribution is appreciated but not required. Not permitted: selling unaltered images, or compiling them to replicate a competing service.",
+    "attributionRequired": false
+  },
+  "photographer": {
+    "status": "unavailable",
+    "reason": "The CDN photo id is not the public photo-page slug, so the photographer and profile link cannot be resolved without an Unsplash API access key. The License does not require attribution; add names here if you obtain them."
+  },
+  "crop": {
+    "fit": "crop",
+    "quality": 70,
+    "note": "No height parameter: the native 3:2 aspect is preserved and the visual crop comes from CSS object-fit:cover plus each category focalPoint."
+  },
+  "widths": [
+    240,
+    480,
+    720,
+    960,
+    1280
+  ],
+  "fallbackWidths": [
+    480,
+    960
+  ],
+  "formats": {
+    "primary": "image/avif",
+    "fallback": "image/jpeg"
+  },
+  "images": [
+    {
+      "slug": "espresso-01",
+      "productId": 1,
+      "categoryId": "hot",
+      "unsplashId": "1510707577719-ae7c14805e3a",
+      "name": {
+        "fa": "اسپرسو",
+        "en": "Espresso"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1510707577719-ae7c14805e3a?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/espresso-01-240.avif",
+          "px": 240,
+          "py": 161,
+          "bytes": 4025,
+          "sha256": "eac5983eb03881abbd6aedddeec96ce2bda97262dd4982fe7008beeb4f4eb18d"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/espresso-01-480.avif",
+          "px": 480,
+          "py": 321,
+          "bytes": 9809,
+          "sha256": "434b822607b6e5edd1843ee89d587589a85a0b9b51ebd9805e59ef07a2914888"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/espresso-01-720.avif",
+          "px": 720,
+          "py": 482,
+          "bytes": 17820,
+          "sha256": "d9406ce8ef445c5b202725889bad2bf147fb3b5adb0ed2211c1aae5ece45da18"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/espresso-01-960.avif",
+          "px": 960,
+          "py": 643,
+          "bytes": 27831,
+          "sha256": "e7b92f3f6f8e3ec713bdd5e0b05089f1870d876d652a190b3be40c471539d8a9"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/espresso-01-1280.avif",
+          "px": 1280,
+          "py": 857,
+          "bytes": 44857,
+          "sha256": "c81716e5443966f6b8db0cc6f47626e93be72ac51f71475062fdee6ae5bcffbb"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/espresso-01-480.jpg",
+          "px": 480,
+          "py": 321,
+          "bytes": 18866,
+          "sha256": "4c153aacff6c2b0bdeacdbcc5acd1e898b7fb0a66a0238ff1687664fac1af972"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/espresso-01-960.jpg",
+          "px": 960,
+          "py": 643,
+          "bytes": 61815,
+          "sha256": "af22b04570b58bed1797c75df365defcf0bf6e535e9d088f6b4e5ad1548b5813"
+        }
+      ]
+    },
+    {
+      "slug": "cappuccino-02",
+      "productId": 2,
+      "categoryId": "hot",
+      "unsplashId": "1572442388796-11668a67e53d",
+      "name": {
+        "fa": "کاپوچینو",
+        "en": "Cappuccino"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/cappuccino-02-240.avif",
+          "px": 240,
+          "py": 220,
+          "bytes": 12139,
+          "sha256": "e18947487179827b84bb9fdf324f4a6ec710442b76b0f44d30f3a3dae16ffe97"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/cappuccino-02-480.avif",
+          "px": 480,
+          "py": 439,
+          "bytes": 34473,
+          "sha256": "7f791d1fdaa11e17df2f8b4c54970069440aa5f961711563dc5b3d3f038d94f7"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/cappuccino-02-720.avif",
+          "px": 720,
+          "py": 659,
+          "bytes": 65038,
+          "sha256": "5f5b79ae15739cb61c25e67584e7807ec8c734f202bfa462a563909c47a9a2cd"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/cappuccino-02-960.avif",
+          "px": 960,
+          "py": 878,
+          "bytes": 97144,
+          "sha256": "ab9222cf02c761dbe44ab0c0a8af24af116e750daba6b2806450cbde9c8c6ad3"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/cappuccino-02-1280.avif",
+          "px": 1280,
+          "py": 1171,
+          "bytes": 144252,
+          "sha256": "8a769e9e5b4bf3b20ef03a33d0e7c36e5354536283ad059d024567922e93416e"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/cappuccino-02-480.jpg",
+          "px": 480,
+          "py": 439,
+          "bytes": 48707,
+          "sha256": "9c3a49702ca865f05b088736523ad4282c014fe318540ed4a0e9321b31ef6bdf"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/cappuccino-02-960.jpg",
+          "px": 960,
+          "py": 878,
+          "bytes": 158845,
+          "sha256": "ef6bf19c9f3c6419dd43b1efa13dd9d16b67bcd9f7a6dada3963c9c303759cee"
+        }
+      ]
+    },
+    {
+      "slug": "latte-03",
+      "productId": 3,
+      "categoryId": "hot",
+      "unsplashId": "1461023058943-07fcbe16d735",
+      "name": {
+        "fa": "لاته",
+        "en": "Latte"
+      },
+      "cover": "hot",
+      "sourceUrl": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/latte-03-240.avif",
+          "px": 240,
+          "py": 160,
+          "bytes": 4893,
+          "sha256": "1f1f29ab8a86f03e23f1a9799e52245b30f0fc3fb95245b6ecf04b509172aabd"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/latte-03-480.avif",
+          "px": 480,
+          "py": 320,
+          "bytes": 10227,
+          "sha256": "af3ec0147a7186754daaee7d35eaec23051e56cee2d81dabf4c7f0da698798c0"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/latte-03-720.avif",
+          "px": 720,
+          "py": 481,
+          "bytes": 16316,
+          "sha256": "fe6f8dd9746551fa1eb0b03fab0a80343443dd0d0d7de3cba11d549f3605ecee"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/latte-03-960.avif",
+          "px": 960,
+          "py": 641,
+          "bytes": 22879,
+          "sha256": "3db65f57e8fd965d30da6771e66da5b2ce5996f94fcd6e98e8c759fc2327ca78"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/latte-03-1280.avif",
+          "px": 1280,
+          "py": 854,
+          "bytes": 32040,
+          "sha256": "273cc398101523ea7b8cf9d6f1f89bbb77b9fb7080ccc5852597816d5e1d989d"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/latte-03-480.jpg",
+          "px": 480,
+          "py": 320,
+          "bytes": 20133,
+          "sha256": "fb585b7613961dcfead36bfa42db7db873a266eef814e44a907a121d7d466bb1"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/latte-03-960.jpg",
+          "px": 960,
+          "py": 641,
+          "bytes": 57098,
+          "sha256": "c74404217584bd73a22d1f7c02b0c24008478b7762a72d83c42c82ab8aaea3f2"
+        }
+      ]
+    },
+    {
+      "slug": "flat-white-04",
+      "productId": 4,
+      "categoryId": "hot",
+      "unsplashId": "1514432324607-a09d9b4aefdd",
+      "name": {
+        "fa": "فلت وایت",
+        "en": "Flat White"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/flat-white-04-240.avif",
+          "px": 240,
+          "py": 360,
+          "bytes": 16103,
+          "sha256": "18322b4c5924760e3700822836666ae63d36d24c05f21475414ef95efe4f14b6"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/flat-white-04-480.avif",
+          "px": 480,
+          "py": 720,
+          "bytes": 38243,
+          "sha256": "df0e7c4248ac348a9b12fcb0b94efd4831f0055c47acccc2e1359eebe76bd77c"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/flat-white-04-720.avif",
+          "px": 720,
+          "py": 1080,
+          "bytes": 65951,
+          "sha256": "239c15a1a2b85b794d589f59a97aa3062e8a783d9219505bcd2e92fd034db69a"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/flat-white-04-960.avif",
+          "px": 960,
+          "py": 1440,
+          "bytes": 101603,
+          "sha256": "a04a00023bfc4d87e408ab7ffea108e5ed4919b4fec8ff8d54e0b714ff1eace0"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/flat-white-04-1280.avif",
+          "px": 1280,
+          "py": 1920,
+          "bytes": 179077,
+          "sha256": "2dd6a9654959d78c7c1faad68e13fa5fd7968601b7c7858bafae2a8346ee255b"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/flat-white-04-480.jpg",
+          "px": 480,
+          "py": 720,
+          "bytes": 61543,
+          "sha256": "04e0d207bc9d4f2c021d20008bb0db689112e32467b3acfd6c7179243ae42fa3"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/flat-white-04-960.jpg",
+          "px": 960,
+          "py": 1440,
+          "bytes": 208608,
+          "sha256": "f516bbdc469663bbaedebea8d6d8826dd4654068bd0b69ac52e3dcc1cf5ae072"
+        }
+      ]
+    },
+    {
+      "slug": "mocha-05",
+      "productId": 5,
+      "categoryId": "hot",
+      "unsplashId": "1541167760496-1628856ab772",
+      "name": {
+        "fa": "موکا",
+        "en": "Mocha"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1541167760496-1628856ab772?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/mocha-05-240.avif",
+          "px": 240,
+          "py": 134,
+          "bytes": 7123,
+          "sha256": "5a04d873534a2421b0ed262f03cba0e6503714affeac749049371b237385ecaa"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/mocha-05-480.avif",
+          "px": 480,
+          "py": 269,
+          "bytes": 11396,
+          "sha256": "aeb46d26b9d2fd99b4eec6658bffad7dc4674ac02139cfba8d86eb960f8ad13b"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/mocha-05-720.avif",
+          "px": 720,
+          "py": 403,
+          "bytes": 15958,
+          "sha256": "b0a07d91fcd8aeba4b5f3e02419aa0613ef28ad5e3e14782b355aa819b6c5607"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/mocha-05-960.avif",
+          "px": 960,
+          "py": 537,
+          "bytes": 20802,
+          "sha256": "d0d66043b24408e3bf6755367bf9dd0ff3e20cca6b9aac499e0ad004490a1574"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/mocha-05-1280.avif",
+          "px": 1280,
+          "py": 716,
+          "bytes": 27933,
+          "sha256": "1339828d24929b7f20b575d2cc68146204cf3c829142287a1ba0feb436028f39"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/mocha-05-480.jpg",
+          "px": 480,
+          "py": 269,
+          "bytes": 20573,
+          "sha256": "e2bf0071b32ac6c721df4e36e55a2a007db459270ef4df6205d155c5d0700ba7"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/mocha-05-960.jpg",
+          "px": 960,
+          "py": 537,
+          "bytes": 51056,
+          "sha256": "7b90b0555f89c8219e456584ba4cebc87e60cb82d2583d3b72fb9ddc2c422b48"
+        }
+      ]
+    },
+    {
+      "slug": "v60-pour-over-06",
+      "productId": 6,
+      "categoryId": "hot",
+      "unsplashId": "1559496417-e7f25cb247f3",
+      "name": {
+        "fa": "دمی V60",
+        "en": "V60 Pour-over"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/v60-pour-over-06-240.avif",
+          "px": 240,
+          "py": 300,
+          "bytes": 6834,
+          "sha256": "e25927e03f18d1d44bebc4ac281225f024a9742a02b71bafe447097bf606a395"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/v60-pour-over-06-480.avif",
+          "px": 480,
+          "py": 600,
+          "bytes": 10600,
+          "sha256": "6fd143007633ee73b7f86f05634623912d2b557f2f0c9032e0e6ae97940a50f2"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/v60-pour-over-06-720.avif",
+          "px": 720,
+          "py": 900,
+          "bytes": 14400,
+          "sha256": "3f570c7f50877b0112dbc7ed27417a40fe3fb83c171db12c63e828c093c2a069"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/v60-pour-over-06-960.avif",
+          "px": 960,
+          "py": 1200,
+          "bytes": 18927,
+          "sha256": "e4c34982f182c60db65f0d13bde75c2b482c8e9d1be1b50e2de0619e5d6d1710"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/v60-pour-over-06-1280.avif",
+          "px": 1280,
+          "py": 1600,
+          "bytes": 27570,
+          "sha256": "e578db247e6695e45f2646a95cb8f33f28331b9d7383867d674298c2a2520f0c"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/v60-pour-over-06-480.jpg",
+          "px": 480,
+          "py": 600,
+          "bytes": 22961,
+          "sha256": "81d6c0b102699d9cd1582b7596a32dcb4381392233418ae9bf82961657cece85"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/v60-pour-over-06-960.jpg",
+          "px": 960,
+          "py": 1200,
+          "bytes": 62367,
+          "sha256": "9ef4a2a13476d4b29506d8c530da32e91b2557af21dd802f9005486783265cca"
+        }
+      ]
+    },
+    {
+      "slug": "iced-latte-07",
+      "productId": 7,
+      "categoryId": "cold",
+      "unsplashId": "1517701604599-bb29b565090c",
+      "name": {
+        "fa": "لاته سرد",
+        "en": "Iced Latte"
+      },
+      "cover": "cold",
+      "sourceUrl": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/iced-latte-07-240.avif",
+          "px": 240,
+          "py": 360,
+          "bytes": 12939,
+          "sha256": "6ebd3fd8fd1d0a73a241d242cbdccf30037564f16b627ba987dc9d35b14169d4"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/iced-latte-07-480.avif",
+          "px": 480,
+          "py": 720,
+          "bytes": 26300,
+          "sha256": "660cef68796b1fdb2a3236d02f8a34ffbe9b6b1c82480db8eec968421e101142"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/iced-latte-07-720.avif",
+          "px": 720,
+          "py": 1080,
+          "bytes": 42117,
+          "sha256": "f25c361c8d2628f4047eb87b02ba479aef281d86ae8544cb2941cb3de0bb4ce4"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/iced-latte-07-960.avif",
+          "px": 960,
+          "py": 1440,
+          "bytes": 61463,
+          "sha256": "738a61bf922e0305960b7fff9161b3a11725417be064109f2fe0acb209e23084"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/iced-latte-07-1280.avif",
+          "px": 1280,
+          "py": 1920,
+          "bytes": 108336,
+          "sha256": "a7783d4f8e42979cf451334c0103bb90135b735abd1af4640e275339bfc852a6"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/iced-latte-07-480.jpg",
+          "px": 480,
+          "py": 720,
+          "bytes": 49111,
+          "sha256": "d198d4a1501f719d978ca8915073eb8aa2c98be426de96514a667553834da09f"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/iced-latte-07-960.jpg",
+          "px": 960,
+          "py": 1440,
+          "bytes": 153695,
+          "sha256": "70aa047cf38bc151772b159b4a667e968c27078d47507182be71f1c1f9b2d572"
+        }
+      ]
+    },
+    {
+      "slug": "cold-brew-08",
+      "productId": 8,
+      "categoryId": "cold",
+      "unsplashId": "1499638673689-79a0b5115d87",
+      "name": {
+        "fa": "کلدبرو",
+        "en": "Cold Brew"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1499638673689-79a0b5115d87?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/cold-brew-08-240.avif",
+          "px": 240,
+          "py": 300,
+          "bytes": 13426,
+          "sha256": "8aef55bdda24154bd73456207c5926ff930d7c67e38f42a9786cefbb8eda45c1"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/cold-brew-08-480.avif",
+          "px": 480,
+          "py": 600,
+          "bytes": 25626,
+          "sha256": "98a8ac39e6e6ab6cd55d1fdc93c5f94a942041918f0b070e78698b2ef7e608a6"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/cold-brew-08-720.avif",
+          "px": 720,
+          "py": 900,
+          "bytes": 38010,
+          "sha256": "70375ab29cfd16a20d744f69e0897b6e0abfc1c93205c7e38ba335f3ea3750e4"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/cold-brew-08-960.avif",
+          "px": 960,
+          "py": 1200,
+          "bytes": 50942,
+          "sha256": "2d3e1a30f659242fa9df09e8789fe304174e6d41e0dad9e1a51ccaa1206a986c"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/cold-brew-08-1280.avif",
+          "px": 1280,
+          "py": 1600,
+          "bytes": 69638,
+          "sha256": "57406d26d69bc3c59d38010bb1b601ff8b053e778b26f7591616abe872cca75a"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/cold-brew-08-480.jpg",
+          "px": 480,
+          "py": 600,
+          "bytes": 43070,
+          "sha256": "ecc1715223b5bb630ab040bed2c93867c21010e8aa9f3337ba5e368d8dd1e9c8"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/cold-brew-08-960.jpg",
+          "px": 960,
+          "py": 1200,
+          "bytes": 111807,
+          "sha256": "f7754ab8e8b36673ebc3a6a27ff7e5b101ade6cb4bb95dcd1139ffdf450ac41c"
+        }
+      ]
+    },
+    {
+      "slug": "affogato-09",
+      "productId": 9,
+      "categoryId": "cold",
+      "unsplashId": "1594631252845-29fc4cc8cde9",
+      "name": {
+        "fa": "آفوگاتو",
+        "en": "Affogato"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1594631252845-29fc4cc8cde9?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/affogato-09-240.avif",
+          "px": 240,
+          "py": 360,
+          "bytes": 16348,
+          "sha256": "3f42af2ef95f6444421bbfe4df326b9575cbf29a7d00e7fcccbac62c9f0d4d80"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/affogato-09-480.avif",
+          "px": 480,
+          "py": 720,
+          "bytes": 34391,
+          "sha256": "4140cfaaf445094d69c4ba9e89f89a700fc759baf37d802323182dd0b598d712"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/affogato-09-720.avif",
+          "px": 720,
+          "py": 1080,
+          "bytes": 54313,
+          "sha256": "e0a74d59e41131a78b6f8ec674b1e0efbb93008799a603f058dd08c1e7c741f7"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/affogato-09-960.avif",
+          "px": 960,
+          "py": 1440,
+          "bytes": 76091,
+          "sha256": "3d2bae4f01eb7af183af30b140f9584bb0a6fffb419205510bc124a4768f9aef"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/affogato-09-1280.avif",
+          "px": 1280,
+          "py": 1920,
+          "bytes": 110497,
+          "sha256": "b1183ca61f6e8691b5e963037c57b8ecf327c4890602528f91e00c3af7c7d6c9"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/affogato-09-480.jpg",
+          "px": 480,
+          "py": 720,
+          "bytes": 57304,
+          "sha256": "29b90b46348ee56c3472c1177cd9e5d851130d7a5fc1014798632e0629d2ea08"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/affogato-09-960.jpg",
+          "px": 960,
+          "py": 1440,
+          "bytes": 170930,
+          "sha256": "581755da4b6cf6ff9aa945d6af20d849808abdd31c880b46f29c324f55631740"
+        }
+      ]
+    },
+    {
+      "slug": "mint-lemonade-10",
+      "productId": 10,
+      "categoryId": "cold",
+      "unsplashId": "1556679343-c7306c1976bc",
+      "name": {
+        "fa": "لیموناد نعنا",
+        "en": "Mint Lemonade"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/mint-lemonade-10-240.avif",
+          "px": 240,
+          "py": 300,
+          "bytes": 9433,
+          "sha256": "975ecc1fd31802dfea148953ce8513213df920924a797d03fb94c1b102c74bd7"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/mint-lemonade-10-480.avif",
+          "px": 480,
+          "py": 600,
+          "bytes": 21417,
+          "sha256": "720be0a52a1b4be6aa3b188f6d8b89fef05ff2538b9d8e30dcd33b8a78746cf7"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/mint-lemonade-10-720.avif",
+          "px": 720,
+          "py": 900,
+          "bytes": 38496,
+          "sha256": "169ace2980c9b2b31576ebd4888b1ccbf4be60ca3221a8d38e128e3393f82ce6"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/mint-lemonade-10-960.avif",
+          "px": 960,
+          "py": 1200,
+          "bytes": 58755,
+          "sha256": "373904ba5d40d5c12e406e26c51b8ad73e05f7543dde54bbc72608255462e3be"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/mint-lemonade-10-1280.avif",
+          "px": 1280,
+          "py": 1600,
+          "bytes": 90264,
+          "sha256": "cb04294fd352cd432a11000a0dad9ca7f3944b0fe8276a5f3dfc0e7173fea4b0"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/mint-lemonade-10-480.jpg",
+          "px": 480,
+          "py": 600,
+          "bytes": 34773,
+          "sha256": "490448929024d1d8b58456f1e9705aebffbac4c7e7078592a3d0546a00264916"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/mint-lemonade-10-960.jpg",
+          "px": 960,
+          "py": 1200,
+          "bytes": 109125,
+          "sha256": "6e45ccc7bde08c31b8976c571a2ff5723c3e5736572f2c8921a09a69ae6fbbec"
+        }
+      ]
+    },
+    {
+      "slug": "strawberry-smoothie-11",
+      "productId": 11,
+      "categoryId": "cold",
+      "unsplashId": "1553530666-ba11a7da3888",
+      "name": {
+        "fa": "اسموتی توت‌فرنگی",
+        "en": "Strawberry Smoothie"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/strawberry-smoothie-11-240.avif",
+          "px": 240,
+          "py": 361,
+          "bytes": 9197,
+          "sha256": "1b10ec9d5a8722ead8bf0178335f6ff06161bde00fb13f7772ae90bbe97a49ea"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/strawberry-smoothie-11-480.avif",
+          "px": 480,
+          "py": 722,
+          "bytes": 23384,
+          "sha256": "43826f0bd428efc0d05f242dd3e756311186d1f592775cf1fc165d1a18a6f682"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/strawberry-smoothie-11-720.avif",
+          "px": 720,
+          "py": 1083,
+          "bytes": 41820,
+          "sha256": "1e77eccb1a486c816c5bcc18a454acebf45d78712753e02ea2d1fdaf7a37856e"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/strawberry-smoothie-11-960.avif",
+          "px": 960,
+          "py": 1444,
+          "bytes": 63396,
+          "sha256": "f57927c60475c43400229845d0ca1aa4c6f4ef3df5956e49aff61ecb76783c34"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/strawberry-smoothie-11-1280.avif",
+          "px": 1280,
+          "py": 1925,
+          "bytes": 100273,
+          "sha256": "b64f9d8198cad3c1f0eb955b3426aee0be9ed1a41e48924c9e686e4b3df45c3e"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/strawberry-smoothie-11-480.jpg",
+          "px": 480,
+          "py": 722,
+          "bytes": 43954,
+          "sha256": "c98f247b4a8cdd06669c5a3ffbd5aa3f7f1aa08d2406fac85de98cb83a583563"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/strawberry-smoothie-11-960.jpg",
+          "px": 960,
+          "py": 1444,
+          "bytes": 140144,
+          "sha256": "ba64885ba4af8f75aa4516af84c41216ccc1e8d9d17ee246bbc1e79b5b680619"
+        }
+      ]
+    },
+    {
+      "slug": "iced-matcha-latte-12",
+      "productId": 12,
+      "categoryId": "cold",
+      "unsplashId": "1536256263959-770b48d82b0a",
+      "name": {
+        "fa": "ماچا لاته سرد",
+        "en": "Iced Matcha Latte"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/iced-matcha-latte-12-240.avif",
+          "px": 240,
+          "py": 360,
+          "bytes": 9638,
+          "sha256": "c75ceceb6962a90005014063652fed44a988171d2af9625860f114479b17ba29"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/iced-matcha-latte-12-480.avif",
+          "px": 480,
+          "py": 720,
+          "bytes": 18941,
+          "sha256": "b8c7d1e8dd99ffc1defc0c4571d0f384280c85eab4455aa8c346cc944fd2d605"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/iced-matcha-latte-12-720.avif",
+          "px": 720,
+          "py": 1080,
+          "bytes": 31643,
+          "sha256": "6186ae0842ca365e54df3e8c32fde95680e7dead07a0f9e0213b6fed35fa8081"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/iced-matcha-latte-12-960.avif",
+          "px": 960,
+          "py": 1440,
+          "bytes": 45782,
+          "sha256": "a3ce0a3ef994731f47b6e8f0af58bfa1541d57c24526356c3307785a1313c94e"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/iced-matcha-latte-12-1280.avif",
+          "px": 1280,
+          "py": 1920,
+          "bytes": 71279,
+          "sha256": "1dce3d108572a96199413cc4369d38c155d2e531af9c1705cf58ca346d414a48"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/iced-matcha-latte-12-480.jpg",
+          "px": 480,
+          "py": 720,
+          "bytes": 40907,
+          "sha256": "29535661347fcc78c01c75b3ccd6dee2becfa35c475afdebf7adba562b0daa32"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/iced-matcha-latte-12-960.jpg",
+          "px": 960,
+          "py": 1440,
+          "bytes": 116352,
+          "sha256": "0eb70957f54d5dbe13b3525fd8a45ce32d6d640b4c2ce02a57d6c8eb65d9477b"
+        }
+      ]
+    },
+    {
+      "slug": "persian-black-tea-13",
+      "productId": 13,
+      "categoryId": "tea",
+      "unsplashId": "1544787219-7f47ccb76574",
+      "name": {
+        "fa": "چای ایرانی",
+        "en": "Persian Black Tea"
+      },
+      "cover": "tea",
+      "sourceUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/persian-black-tea-13-240.avif",
+          "px": 240,
+          "py": 331,
+          "bytes": 6981,
+          "sha256": "57ac11f4ac7ba175fe369dc308e8b7c1782951eb8431b533322f980326be6e12"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/persian-black-tea-13-480.avif",
+          "px": 480,
+          "py": 662,
+          "bytes": 12032,
+          "sha256": "6e87af3af70ffd74abb0bbb30bf541ff9a408a45410d1ebcd7f8831e59f9601c"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/persian-black-tea-13-720.avif",
+          "px": 720,
+          "py": 993,
+          "bytes": 17607,
+          "sha256": "a6587154ae61cc9c477b956653494e39c853c160573a4b9c589d46feba6b6925"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/persian-black-tea-13-960.avif",
+          "px": 960,
+          "py": 1325,
+          "bytes": 23437,
+          "sha256": "b1bfdbfbfb56d90ab81b2f3a1ba6cee384de0cadfc75324d6b30b90c876f7493"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/persian-black-tea-13-1280.avif",
+          "px": 1280,
+          "py": 1766,
+          "bytes": 31766,
+          "sha256": "d0412e6424c7135587080e2bd884422a8a0511973a9fad26d45032c3bf3bc7eb"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/persian-black-tea-13-480.jpg",
+          "px": 480,
+          "py": 662,
+          "bytes": 22226,
+          "sha256": "174d269e1eff4388ac74647502476bdef5d456a4e7ab298d1f1c59cde56d9fbf"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/persian-black-tea-13-960.jpg",
+          "px": 960,
+          "py": 1325,
+          "bytes": 58433,
+          "sha256": "5df71888d3155bccc86343611084e587e57d4464e2f4930ce62c7ea7fcd7f183"
+        }
+      ]
+    },
+    {
+      "slug": "saffron-tea-14",
+      "productId": 14,
+      "categoryId": "tea",
+      "unsplashId": "1597318181409-cf64d0b5d8a2",
+      "name": {
+        "fa": "چای زعفرانی",
+        "en": "Saffron Tea"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1597318181409-cf64d0b5d8a2?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/saffron-tea-14-240.avif",
+          "px": 240,
+          "py": 160,
+          "bytes": 8543,
+          "sha256": "9593ce21e5f5ce8e4dff8067724f251d58ee940278014eab963add28d8a5fcad"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/saffron-tea-14-480.avif",
+          "px": 480,
+          "py": 320,
+          "bytes": 15179,
+          "sha256": "c9d3c1d6bbde7fd0f6ca4ebad36f5ab37e7cbd5c8a6be3de08554d2358db823c"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/saffron-tea-14-720.avif",
+          "px": 720,
+          "py": 480,
+          "bytes": 22689,
+          "sha256": "9513e4f26830cdf5e7c488a23f156a88e5a87704f402283232f6f63d6775db55"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/saffron-tea-14-960.avif",
+          "px": 960,
+          "py": 640,
+          "bytes": 30857,
+          "sha256": "3c7fec2d6281c3143f0c9838cda50aa9ddf5dbddbb2acddd9f626ab1d6b3b944"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/saffron-tea-14-1280.avif",
+          "px": 1280,
+          "py": 853,
+          "bytes": 43811,
+          "sha256": "f6a22d5577143fdf4f196dc0af9fbd19160352fea5071cd23def055ed5eaa6f0"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/saffron-tea-14-480.jpg",
+          "px": 480,
+          "py": 320,
+          "bytes": 25450,
+          "sha256": "5e6c586b54b31e213c3293aa60fdca6c1c1606100c93071b92c82caf4348a493"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/saffron-tea-14-960.jpg",
+          "px": 960,
+          "py": 640,
+          "bytes": 63243,
+          "sha256": "2fa953e6d92817922796b51902dcdbf13cba4d9d291ce7f13fc1c923b297c0ca"
+        }
+      ]
+    },
+    {
+      "slug": "jasmine-green-tea-15",
+      "productId": 15,
+      "categoryId": "tea",
+      "unsplashId": "1627435601361-ec25f5b1d0e5",
+      "name": {
+        "fa": "چای سبز یاس",
+        "en": "Jasmine Green Tea"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/jasmine-green-tea-15-240.avif",
+          "px": 240,
+          "py": 160,
+          "bytes": 4196,
+          "sha256": "f015c56d5bc93692a04f7e716859f054edd78adba0916aa1fc4718ff21d89cb3"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/jasmine-green-tea-15-480.avif",
+          "px": 480,
+          "py": 320,
+          "bytes": 9930,
+          "sha256": "53749119cff6525148b81ed254f3f9bd4e4f8ee6c09d7342c86c6cccdc28361c"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/jasmine-green-tea-15-720.avif",
+          "px": 720,
+          "py": 480,
+          "bytes": 17126,
+          "sha256": "9cccd7f170dc934ce3d28783ef6434b35b80ea40e881653bf8ec2864a5c30951"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/jasmine-green-tea-15-960.avif",
+          "px": 960,
+          "py": 640,
+          "bytes": 25660,
+          "sha256": "426b18a7c48522af16b65a16258bb348803fa32573d15f8dbc0b253d58173dd3"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/jasmine-green-tea-15-1280.avif",
+          "px": 1280,
+          "py": 853,
+          "bytes": 37800,
+          "sha256": "1f1fa8be3b29fb6949dd71948552533181ffd67f9068bef7c6de0ae4dcc9fba3"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/jasmine-green-tea-15-480.jpg",
+          "px": 480,
+          "py": 320,
+          "bytes": 17314,
+          "sha256": "caddfa58163bfdd3d5dc30b9e881b48a15ae0b6f58701b201254e252b1c8a837"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/jasmine-green-tea-15-960.jpg",
+          "px": 960,
+          "py": 640,
+          "bytes": 50829,
+          "sha256": "3739717e62b995e5f6b3d7d94761641d3ab00ea6f3afeae1279b96192a2794f6"
+        }
+      ]
+    },
+    {
+      "slug": "chamomile-infusion-16",
+      "productId": 16,
+      "categoryId": "tea",
+      "unsplashId": "1597481499750-3e6b22637e12",
+      "name": {
+        "fa": "دمنوش بابونه",
+        "en": "Chamomile Infusion"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1597481499750-3e6b22637e12?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/chamomile-infusion-16-240.avif",
+          "px": 240,
+          "py": 160,
+          "bytes": 9814,
+          "sha256": "231456b72bab47af33d08854d6e4908070eb12cf71757396fdd675ea1f390128"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/chamomile-infusion-16-480.avif",
+          "px": 480,
+          "py": 320,
+          "bytes": 20143,
+          "sha256": "6bed392a66081c6a45b70effc2acf2f6c5dbc73e1664442a8c3c80167bf2055d"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/chamomile-infusion-16-720.avif",
+          "px": 720,
+          "py": 480,
+          "bytes": 32467,
+          "sha256": "8e78ce9ff0b8feb924ce7332d178be2b0a493c69ba84d832ef38a8b13847bda2"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/chamomile-infusion-16-960.avif",
+          "px": 960,
+          "py": 640,
+          "bytes": 45910,
+          "sha256": "95d643a517412aceca78a138720e92f69dbaebb8c4331abe980d7e3089bf617c"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/chamomile-infusion-16-1280.avif",
+          "px": 1280,
+          "py": 853,
+          "bytes": 66149,
+          "sha256": "23548a29a697cb97bf88d6d30bd2deb8e2fe75c7e11c5d2489d884640eb805a9"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/chamomile-infusion-16-480.jpg",
+          "px": 480,
+          "py": 320,
+          "bytes": 28573,
+          "sha256": "255f1f020c84e1894a166205d8ea9f25d2f5e6bca4a663c59b7dd6248e42d74e"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/chamomile-infusion-16-960.jpg",
+          "px": 960,
+          "py": 640,
+          "bytes": 77905,
+          "sha256": "b45a78bc54ee9fdb40a64cdc0d6f87bcf5dac23d1fa13fdf25a87f316bf275b8"
+        }
+      ]
+    },
+    {
+      "slug": "masala-chai-17",
+      "productId": 17,
+      "categoryId": "tea",
+      "unsplashId": "1561336313-0bd5e0b27ec8",
+      "name": {
+        "fa": "چای ماسالا",
+        "en": "Masala Chai"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1561336313-0bd5e0b27ec8?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/masala-chai-17-240.avif",
+          "px": 240,
+          "py": 160,
+          "bytes": 9399,
+          "sha256": "598e5044650062ff0f48afc5519b5521daa314b718fc89f9d1a94cae00ebd6c7"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/masala-chai-17-480.avif",
+          "px": 480,
+          "py": 320,
+          "bytes": 17635,
+          "sha256": "5e015601a119547869d2ad31e119d17b0edfa2841843b613f9887d9b4d27b953"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/masala-chai-17-720.avif",
+          "px": 720,
+          "py": 480,
+          "bytes": 27194,
+          "sha256": "32ac56f09e32a1eb2686e95a57295db0ea5c5760ac9426f4c834d0bf956d9885"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/masala-chai-17-960.avif",
+          "px": 960,
+          "py": 640,
+          "bytes": 36875,
+          "sha256": "39a9a29677b7ac2408a9cf36a26397a4af5e48430baa2b6445ebe107f64d0460"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/masala-chai-17-1280.avif",
+          "px": 1280,
+          "py": 853,
+          "bytes": 50876,
+          "sha256": "56874cbdd9e9472e6a29848aaad368ddfb97ad4d87d801583d033cabed4e8ff4"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/masala-chai-17-480.jpg",
+          "px": 480,
+          "py": 320,
+          "bytes": 28740,
+          "sha256": "f95b40196ac58fec866ab102617591d7f743e4ed5afce21f63f35bdf486e5d60"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/masala-chai-17-960.jpg",
+          "px": 960,
+          "py": 640,
+          "bytes": 75908,
+          "sha256": "88a776cab333995148129b3cb853dccf1b17cfa9ca364236c49b2335ec0705ca"
+        }
+      ]
+    },
+    {
+      "slug": "iced-hibiscus-tea-18",
+      "productId": 18,
+      "categoryId": "tea",
+      "unsplashId": "1556881286-fc6915169721",
+      "name": {
+        "fa": "چای ترش سرد",
+        "en": "Iced Hibiscus Tea"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1556881286-fc6915169721?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/iced-hibiscus-tea-18-240.avif",
+          "px": 240,
+          "py": 360,
+          "bytes": 9017,
+          "sha256": "539a3cdabb8c711306ac67f6e378e267c4c5c99e0de0cb470f4450f239977d83"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/iced-hibiscus-tea-18-480.avif",
+          "px": 480,
+          "py": 720,
+          "bytes": 18567,
+          "sha256": "0fe0852da09064047e3d23a05af2eff74cbe610a931db14239a49aaa76df67a3"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/iced-hibiscus-tea-18-720.avif",
+          "px": 720,
+          "py": 1080,
+          "bytes": 29839,
+          "sha256": "3e3e3ec9be0c5ad0c6e8ad94571f25049970a406ff678934d0249ea2391ef500"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/iced-hibiscus-tea-18-960.avif",
+          "px": 960,
+          "py": 1440,
+          "bytes": 42446,
+          "sha256": "03b01ee6ebd3101473379bec808464468e30481f464c8d0cd543363bcfb6e795"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/iced-hibiscus-tea-18-1280.avif",
+          "px": 1280,
+          "py": 1920,
+          "bytes": 62549,
+          "sha256": "10c971bb3705ab1ad7593c9fb17449fd171878198cae9928a0320c8e2362dd24"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/iced-hibiscus-tea-18-480.jpg",
+          "px": 480,
+          "py": 720,
+          "bytes": 35675,
+          "sha256": "a42010358dd4c549be19ebb2a2f0baca5b080de86db4094add77af7a4c7d990d"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/iced-hibiscus-tea-18-960.jpg",
+          "px": 960,
+          "py": 1440,
+          "bytes": 110634,
+          "sha256": "342a6a9e265dd0e93bb9a508cd8f45d342312132f8916385793be36e98efabc0"
+        }
+      ]
+    },
+    {
+      "slug": "chocolate-cake-19",
+      "productId": 19,
+      "categoryId": "dessert",
+      "unsplashId": "1578985545062-69928b1d9587",
+      "name": {
+        "fa": "کیک شکلات",
+        "en": "Chocolate Cake"
+      },
+      "cover": "dessert",
+      "sourceUrl": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/chocolate-cake-19-240.avif",
+          "px": 240,
+          "py": 176,
+          "bytes": 11570,
+          "sha256": "07f6f9eb4f77d5d348596b7a4c420ca3f269a780392b6c9e75707947875a5eed"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/chocolate-cake-19-480.avif",
+          "px": 480,
+          "py": 353,
+          "bytes": 33301,
+          "sha256": "9a2ae7cd9a7b12e51585eb569343ebd68667909b9817254aa8f5a29abd39868d"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/chocolate-cake-19-720.avif",
+          "px": 720,
+          "py": 529,
+          "bytes": 58601,
+          "sha256": "135dc642a833d4a7e243596f80eb1a04b189f767bd2838d8f0520ce447175408"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/chocolate-cake-19-960.avif",
+          "px": 960,
+          "py": 706,
+          "bytes": 86881,
+          "sha256": "e9c077568ee45c46517abb195b1528cc6540df38afdb077e5546053207b2126f"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/chocolate-cake-19-1280.avif",
+          "px": 1280,
+          "py": 941,
+          "bytes": 127812,
+          "sha256": "76a4e5c6d9247ffd0e0b63090f4448be50c53d68dad3019ef0167825d4642df2"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/chocolate-cake-19-480.jpg",
+          "px": 480,
+          "py": 353,
+          "bytes": 42245,
+          "sha256": "88fc0be621edd79d76d08c7f838eb4485df2c7dba7fe74c6e5d3b7603de335d4"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/chocolate-cake-19-960.jpg",
+          "px": 960,
+          "py": 706,
+          "bytes": 130612,
+          "sha256": "0f8454b22ca4c55d2ee18e47ebbea636e5b96de6da6ebbaec80b20afde084eab"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-cheesecake-20",
+      "productId": 20,
+      "categoryId": "dessert",
+      "unsplashId": "1533134242443-d4fd215305ad",
+      "name": {
+        "fa": "چیزکیک نیویورکی",
+        "en": "New York Cheesecake"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/new-york-cheesecake-20-240.avif",
+          "px": 240,
+          "py": 160,
+          "bytes": 8213,
+          "sha256": "af7c344506c61a182d74b264554c7c74f58fd05402f1f91f3b3233c766e5d739"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/new-york-cheesecake-20-480.avif",
+          "px": 480,
+          "py": 320,
+          "bytes": 15234,
+          "sha256": "4ec2c1ee7aa1b8830ae2a027d955bc62ebf9e9a0e891cd1bb05b023bd0d1b829"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/new-york-cheesecake-20-720.avif",
+          "px": 720,
+          "py": 480,
+          "bytes": 23274,
+          "sha256": "003822d9324a6fe97a9c8bb5558226cfa3c81a7cb4c4cc62b98e21788523d0c2"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/new-york-cheesecake-20-960.avif",
+          "px": 960,
+          "py": 640,
+          "bytes": 32541,
+          "sha256": "e5a9ad9ccb3a1a98ddb7ff86405bf031070ea76448c46c0a21333c8d8039ef2b"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/new-york-cheesecake-20-1280.avif",
+          "px": 1280,
+          "py": 853,
+          "bytes": 53514,
+          "sha256": "2753215bf1abb4a37df24fbdd314e18de2a6928fd58984a08374d589d69085e4"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/new-york-cheesecake-20-480.jpg",
+          "px": 480,
+          "py": 320,
+          "bytes": 26004,
+          "sha256": "947fdc88d7ee3e29725d16b97b6c84b6d6fd1e2e332450277ac9a25c3b4f7d75"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/new-york-cheesecake-20-960.jpg",
+          "px": 960,
+          "py": 640,
+          "bytes": 79521,
+          "sha256": "cfb4b6cc17a2ebd327ac92ebd91d3da827b051ce42bcace5061be8d827932fc7"
+        }
+      ]
+    },
+    {
+      "slug": "tiramisu-21",
+      "productId": 21,
+      "categoryId": "dessert",
+      "unsplashId": "1571877227200-a0d98ea607e9",
+      "name": {
+        "fa": "تیرامیسو",
+        "en": "Tiramisu"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/tiramisu-21-240.avif",
+          "px": 240,
+          "py": 320,
+          "bytes": 16956,
+          "sha256": "77381798804e90495bf955348b9946421910568cd4a21378eeb1bed48a3b17dd"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/tiramisu-21-480.avif",
+          "px": 480,
+          "py": 640,
+          "bytes": 39977,
+          "sha256": "ebb5019aba08242f43669861cf1f8eca4da3b7d5ac7a6b829a3ecc8c32bd16be"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/tiramisu-21-720.avif",
+          "px": 720,
+          "py": 960,
+          "bytes": 67209,
+          "sha256": "b7886314f77f3abae8473cde54e29b593f394b563a931869442c5a3ed6cc9b71"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/tiramisu-21-960.avif",
+          "px": 960,
+          "py": 1280,
+          "bytes": 96941,
+          "sha256": "5a19609dc425d68ba2ab34adaa660a95582e4b07314a201b9a53b8e90b5fe699"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/tiramisu-21-1280.avif",
+          "px": 1280,
+          "py": 1706,
+          "bytes": 139218,
+          "sha256": "e103b265890b7e4993b45aee90aecaaa42c705d556511a4279e899a00ed5e4ac"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/tiramisu-21-480.jpg",
+          "px": 480,
+          "py": 640,
+          "bytes": 59393,
+          "sha256": "9405fea967e849254e999bcea6eb83294ec874ada85e34a559a5003c801a7450"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/tiramisu-21-960.jpg",
+          "px": 960,
+          "py": 1280,
+          "bytes": 175131,
+          "sha256": "1cd127774fe7f129b7c11539492e863ac183f28e87a204ef65aff6b640d1b94f"
+        }
+      ]
+    },
+    {
+      "slug": "macarons-22",
+      "productId": 22,
+      "categoryId": "dessert",
+      "unsplashId": "1558961363-fa8fdf82db35",
+      "name": {
+        "fa": "ماکارون",
+        "en": "Macarons"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/macarons-22-240.avif",
+          "px": 240,
+          "py": 300,
+          "bytes": 14681,
+          "sha256": "3a0a7002526af93e4b42598cd2e33a5d55b83dd38088b08379f3e63171b0aebe"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/macarons-22-480.avif",
+          "px": 480,
+          "py": 600,
+          "bytes": 39682,
+          "sha256": "6aa7eec5f77fa7bb563accdfc40fc21f422e0a219eead0bfaf379cf28cf12b70"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/macarons-22-720.avif",
+          "px": 720,
+          "py": 900,
+          "bytes": 74187,
+          "sha256": "d32ce10487552e8a4f178c4f9b89488d18be09a63a703fb72177e1f472b62851"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/macarons-22-960.avif",
+          "px": 960,
+          "py": 1200,
+          "bytes": 114982,
+          "sha256": "773e8ec790d8fbddce6d22f18dcad0d2579e1ae430daa615e071d96d041b9c8c"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/macarons-22-1280.avif",
+          "px": 1280,
+          "py": 1600,
+          "bytes": 175643,
+          "sha256": "fe974c22bc1c15e7f91ee5c9b6fb9cd01c1e95ff2538c455f5b7af79da6605da"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/macarons-22-480.jpg",
+          "px": 480,
+          "py": 600,
+          "bytes": 56680,
+          "sha256": "c3a8688f2544fda3246d32fb189a9f62af58ee5cf8b88a54a7238be04d534579"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/macarons-22-960.jpg",
+          "px": 960,
+          "py": 1200,
+          "bytes": 180181,
+          "sha256": "5c0eadb4a1af53dbb9373426cc3a47c47956e7cbd595d773604255ab8f8a802a"
+        }
+      ]
+    },
+    {
+      "slug": "glazed-donut-23",
+      "productId": 23,
+      "categoryId": "dessert",
+      "unsplashId": "1551024601-bec78aea704b",
+      "name": {
+        "fa": "دونات گلاسه",
+        "en": "Glazed Donut"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1551024601-bec78aea704b?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/glazed-donut-23-240.avif",
+          "px": 240,
+          "py": 300,
+          "bytes": 22004,
+          "sha256": "62ccdc29574fd195267cac1bb47830c5bfd519c5c6d2f440841244a044c97d0e"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/glazed-donut-23-480.avif",
+          "px": 480,
+          "py": 600,
+          "bytes": 45452,
+          "sha256": "d13cd320ea3a842f7d599b1b8e634471de6ca81fb41f5171d15eb30ae4ef3221"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/glazed-donut-23-720.avif",
+          "px": 720,
+          "py": 900,
+          "bytes": 69153,
+          "sha256": "f468203a7833093d042fc1e7fba02801d845113e158c32eb5b95302910b567e9"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/glazed-donut-23-960.avif",
+          "px": 960,
+          "py": 1200,
+          "bytes": 93861,
+          "sha256": "15e38dc68d2cd4c07c0e7055eeaa346e262b2b0b9bac7422785e0e29d0b6add7"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/glazed-donut-23-1280.avif",
+          "px": 1280,
+          "py": 1600,
+          "bytes": 142207,
+          "sha256": "15541c452aa682e897d204199c78ba7fcb5ba02e01c9d4b6af303f9c6f8ad089"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/glazed-donut-23-480.jpg",
+          "px": 480,
+          "py": 600,
+          "bytes": 62029,
+          "sha256": "0f50eb49417b10d5910dce5aff25cb85029726e22c4198d5567a1b48969ee8ac"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/glazed-donut-23-960.jpg",
+          "px": 960,
+          "py": 1200,
+          "bytes": 182338,
+          "sha256": "26ee06f40222e8e26b371ea7ecb897800221f46c0cc47abcc040a1c8b079c5ae"
+        }
+      ]
+    },
+    {
+      "slug": "pistachio-cardamom-cake-24",
+      "productId": 24,
+      "categoryId": "dessert",
+      "unsplashId": "1565958011703-44f9829ba187",
+      "name": {
+        "fa": "کیک پسته و هل",
+        "en": "Pistachio Cardamom Cake"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/pistachio-cardamom-cake-24-240.avif",
+          "px": 240,
+          "py": 300,
+          "bytes": 15046,
+          "sha256": "3cfdfce04376f4768e004882ca02991c881643e2523968ac3ee408d3b460a070"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/pistachio-cardamom-cake-24-480.avif",
+          "px": 480,
+          "py": 600,
+          "bytes": 31904,
+          "sha256": "5a7b6426d2586c596992a32e87aafb330239d83680990beec6a90b55a2444600"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/pistachio-cardamom-cake-24-720.avif",
+          "px": 720,
+          "py": 900,
+          "bytes": 50695,
+          "sha256": "1cb366864f227773b0b384026619ddb890c941c39e070db6c4da0adbf9134bfc"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/pistachio-cardamom-cake-24-960.avif",
+          "px": 960,
+          "py": 1200,
+          "bytes": 70958,
+          "sha256": "3cca577e19b6282fb21fe00097e9de843db21f1271c1cd768be1a5b137e23408"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/pistachio-cardamom-cake-24-1280.avif",
+          "px": 1280,
+          "py": 1600,
+          "bytes": 101466,
+          "sha256": "c5149d0916bed30ffbc819bec91ba13c71568e406962e2de50d90bcca96486cf"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/pistachio-cardamom-cake-24-480.jpg",
+          "px": 480,
+          "py": 600,
+          "bytes": 49379,
+          "sha256": "df0c373fdab76ba63de8bb6a0c3af494a6965df2440c6e7052d988e589db5256"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/pistachio-cardamom-cake-24-960.jpg",
+          "px": 960,
+          "py": 1200,
+          "bytes": 136628,
+          "sha256": "6e693296e354c5c8de5b1773b3c9c07eeeaabbe290e905ad3e8f8b4e85983309"
+        }
+      ]
+    },
+    {
+      "slug": "butter-croissant-25",
+      "productId": 25,
+      "categoryId": "bakery",
+      "unsplashId": "1555507036-ab1f4038808a",
+      "name": {
+        "fa": "کروسان کره‌ای",
+        "en": "Butter Croissant"
+      },
+      "cover": "bakery",
+      "sourceUrl": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/butter-croissant-25-240.avif",
+          "px": 240,
+          "py": 192,
+          "bytes": 13763,
+          "sha256": "af57eefe3667a33d115c42b27d87a5622438ab0d82dcb44d8b604471c9bd71a2"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/butter-croissant-25-480.avif",
+          "px": 480,
+          "py": 384,
+          "bytes": 37798,
+          "sha256": "4695c7aaaf27f005026533e52896a1515657774518c837cf46511ca8f2d9ca90"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/butter-croissant-25-720.avif",
+          "px": 720,
+          "py": 576,
+          "bytes": 66734,
+          "sha256": "72a8ea5e49dbf30d1c5f51a0ce50a831793f9f450399632dcea09925a35a3359"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/butter-croissant-25-960.avif",
+          "px": 960,
+          "py": 768,
+          "bytes": 98968,
+          "sha256": "b35661a535067a6663c6e71e345a7768951196859acba158be2ea758917cee0f"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/butter-croissant-25-1280.avif",
+          "px": 1280,
+          "py": 1024,
+          "bytes": 145969,
+          "sha256": "a2b212e54ca231ae99efaef313237c9bc99d7771a4112f52ef260abcc557952f"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/butter-croissant-25-480.jpg",
+          "px": 480,
+          "py": 384,
+          "bytes": 44398,
+          "sha256": "6bffbb043774e6b4fee66f54649bc1b558a27e5c14ba6f9fe5eebe7207c0b730"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/butter-croissant-25-960.jpg",
+          "px": 960,
+          "py": 768,
+          "bytes": 135718,
+          "sha256": "16c99f90bf35742e87dc84b67994838f4749a48636c8cee0350547f115272599"
+        }
+      ]
+    },
+    {
+      "slug": "avocado-toast-26",
+      "productId": 26,
+      "categoryId": "bakery",
+      "unsplashId": "1541519227354-08fa5d50c44d",
+      "name": {
+        "fa": "تست آووکادو",
+        "en": "Avocado Toast"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/avocado-toast-26-240.avif",
+          "px": 240,
+          "py": 160,
+          "bytes": 7860,
+          "sha256": "cd01f540c6814904c0f51cb6b5a0752e81581caa7e00730ca93a8875b4f95de4"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/avocado-toast-26-480.avif",
+          "px": 480,
+          "py": 319,
+          "bytes": 16865,
+          "sha256": "6772b0469fd2aee4ee0a83bab3a6818d0d369281bf59806b3196a845b717b506"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/avocado-toast-26-720.avif",
+          "px": 720,
+          "py": 479,
+          "bytes": 29584,
+          "sha256": "b67561da6a50fa080e16d4040e443657a9530580ed2b88d296c1f703ceb96f75"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/avocado-toast-26-960.avif",
+          "px": 960,
+          "py": 639,
+          "bytes": 45330,
+          "sha256": "d527b528c83d6899c59ad4718434e873c7d23f6b09da75426eeb57ff182fa039"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/avocado-toast-26-1280.avif",
+          "px": 1280,
+          "py": 852,
+          "bytes": 71763,
+          "sha256": "6bdc7b5309a05cb9aac48b51ea5186f75afdab99e23db722093c720f41955213"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/avocado-toast-26-480.jpg",
+          "px": 480,
+          "py": 319,
+          "bytes": 24703,
+          "sha256": "5406a619c1b586924bf2d95b6c118e6f04bebf2fb6ca5097626b2368c5513ea5"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/avocado-toast-26-960.jpg",
+          "px": 960,
+          "py": 639,
+          "bytes": 74302,
+          "sha256": "6bb0495c2f60d1b88c934e1b5701dc570e6f164889ab93aad012259b9b97863f"
+        }
+      ]
+    },
+    {
+      "slug": "chicken-pesto-sandwich-27",
+      "productId": 27,
+      "categoryId": "bakery",
+      "unsplashId": "1528735602780-2552fd46c7af",
+      "name": {
+        "fa": "ساندویچ مرغ و پستو",
+        "en": "Chicken Pesto Sandwich"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/chicken-pesto-sandwich-27-240.avif",
+          "px": 240,
+          "py": 160,
+          "bytes": 14723,
+          "sha256": "10b0ca483181464ba50066bd8d743d32a2bd1dd63a3467b52381e14968b68aeb"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/chicken-pesto-sandwich-27-480.avif",
+          "px": 480,
+          "py": 319,
+          "bytes": 39017,
+          "sha256": "bdffc90c86b5b0029681a767dfed851a1fd83079b3e1c6e62dd9ea6c7f8747cf"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/chicken-pesto-sandwich-27-720.avif",
+          "px": 720,
+          "py": 479,
+          "bytes": 73253,
+          "sha256": "c7e31ba50b4960db7cd3d07a071abcf26625389293f82018f05092063ca0168b"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/chicken-pesto-sandwich-27-960.avif",
+          "px": 960,
+          "py": 638,
+          "bytes": 117379,
+          "sha256": "f116e0ea36aa4c9d18f74fe2baa2ba4bcc8490567d9490277ea454213d4eb9b1"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/chicken-pesto-sandwich-27-1280.avif",
+          "px": 1280,
+          "py": 851,
+          "bytes": 186656,
+          "sha256": "9be502ce47ee3d26e8484da79449ac00fd3abf7cd13f247c20735cede954212c"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/chicken-pesto-sandwich-27-480.jpg",
+          "px": 480,
+          "py": 319,
+          "bytes": 45079,
+          "sha256": "d930705482876b3f46f329e87d2ce4dae6c3a0825ddf25b06520b0189280e4aa"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/chicken-pesto-sandwich-27-960.jpg",
+          "px": 960,
+          "py": 638,
+          "bytes": 144714,
+          "sha256": "bad8bfbf4900b639985ab3ef949e6e146683a0ed54ff32fae5eed213393f5078"
+        }
+      ]
+    },
+    {
+      "slug": "sourdough-butter-28",
+      "productId": 28,
+      "categoryId": "bakery",
+      "unsplashId": "1509440159596-0249088772ff",
+      "name": {
+        "fa": "نان خمیرترش و کره",
+        "en": "Sourdough & Butter"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/sourdough-butter-28-240.avif",
+          "px": 240,
+          "py": 160,
+          "bytes": 19045,
+          "sha256": "75d2cc31fb1190b641c76995e61d8fc4c9eac3a636bf5372e554776037aec63d"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/sourdough-butter-28-480.avif",
+          "px": 480,
+          "py": 319,
+          "bytes": 61956,
+          "sha256": "ebc2add66c0c290bada94c5057162c002dfc34f42cba4ef0f0bd51f0c9661651"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/sourdough-butter-28-720.avif",
+          "px": 720,
+          "py": 479,
+          "bytes": 127210,
+          "sha256": "213f94055b5af9a21fd73e090861d8d50061b8b3e1467ba971d7a2a0529c1d5e"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/sourdough-butter-28-960.avif",
+          "px": 960,
+          "py": 639,
+          "bytes": 211729,
+          "sha256": "b784a7921d93d9f1ea2d69470685d1025ad8011ad2043e6fc2d65a1dd55607de"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/sourdough-butter-28-1280.avif",
+          "px": 1280,
+          "py": 852,
+          "bytes": 353366,
+          "sha256": "9c6cc8c50d40640b13c7653aed5a98ad38769d65e8af82eddf6e4da860bcdff5"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/sourdough-butter-28-480.jpg",
+          "px": 480,
+          "py": 319,
+          "bytes": 60537,
+          "sha256": "01c49745c9d5d6220d2d99ecff5b749f2967407386fc8c266561fe6e15fd754e"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/sourdough-butter-28-960.jpg",
+          "px": 960,
+          "py": 639,
+          "bytes": 215770,
+          "sha256": "f3f6f811753d3c9b7742097f15be21a642b75429a170c58a53642c5767b52e57"
+        }
+      ]
+    },
+    {
+      "slug": "eggs-on-toast-29",
+      "productId": 29,
+      "categoryId": "bakery",
+      "unsplashId": "1525351484163-7529414344d8",
+      "name": {
+        "fa": "تخم‌مرغ و نان برشته",
+        "en": "Eggs on Toast"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1525351484163-7529414344d8?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/eggs-on-toast-29-240.avif",
+          "px": 240,
+          "py": 240,
+          "bytes": 13432,
+          "sha256": "2ae070076d1c41e94175c71b9bdbd4d54028568eb29d8866d91fa732eae5159a"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/eggs-on-toast-29-480.avif",
+          "px": 480,
+          "py": 480,
+          "bytes": 29003,
+          "sha256": "75a64a4e7e0315e93d5852ef0d2e6a73b72a5ee4e1b592dc0d558e23ccfe1968"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/eggs-on-toast-29-720.avif",
+          "px": 720,
+          "py": 720,
+          "bytes": 47368,
+          "sha256": "bf227de6186a9fd4732b16101491948aaf96cc8d8fb72fc257e844c22c785cf0"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/eggs-on-toast-29-960.avif",
+          "px": 960,
+          "py": 960,
+          "bytes": 70632,
+          "sha256": "12f936057ad7f4923238728c39123e0d36dd9042ec8525fcb5c340621ab9cdd9"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/eggs-on-toast-29-1280.avif",
+          "px": 1280,
+          "py": 1280,
+          "bytes": 124295,
+          "sha256": "1e899c5d9b0ede009d8f7df1811e2f4d61131955e191460ceab68b74843db1b0"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/eggs-on-toast-29-480.jpg",
+          "px": 480,
+          "py": 480,
+          "bytes": 42759,
+          "sha256": "a588ed08263a89c79b9289138b85d7dade1449c39ef70554e1fbaa4476ba5b52"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/eggs-on-toast-29-960.jpg",
+          "px": 960,
+          "py": 960,
+          "bytes": 134119,
+          "sha256": "75d24893994ddaa84c2f5548ad8bcaaf06628a97674e9a65d40ea20ef2bcd1b3"
+        }
+      ]
+    },
+    {
+      "slug": "mini-pancakes-30",
+      "productId": 30,
+      "categoryId": "bakery",
+      "unsplashId": "1567620905732-2d1ec7ab7445",
+      "name": {
+        "fa": "پنکیک مینی",
+        "en": "Mini Pancakes"
+      },
+      "cover": null,
+      "sourceUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?fm=avif&fit=crop&w={width}&q=70",
+      "avif": [
+        {
+          "width": 240,
+          "file": "images/menu/mini-pancakes-30-240.avif",
+          "px": 240,
+          "py": 290,
+          "bytes": 11983,
+          "sha256": "5963ce7ce67c40aca885d11dba1572ed12909aa58baad7a80d14814a5038ef4b"
+        },
+        {
+          "width": 480,
+          "file": "images/menu/mini-pancakes-30-480.avif",
+          "px": 480,
+          "py": 580,
+          "bytes": 23953,
+          "sha256": "aaa55ea18c4253b209aa4b3caccb6027f790496647b30022de1eae02adf1a6f4"
+        },
+        {
+          "width": 720,
+          "file": "images/menu/mini-pancakes-30-720.avif",
+          "px": 720,
+          "py": 870,
+          "bytes": 37718,
+          "sha256": "92721e191836314f3523797293e652a709860ade99ea064bbdd79de3a6b1078a"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/mini-pancakes-30-960.avif",
+          "px": 960,
+          "py": 1160,
+          "bytes": 53653,
+          "sha256": "473db81b2b7c069f612ac9c2ef1f9009be6099182c055be28f703fea22a2045d"
+        },
+        {
+          "width": 1280,
+          "file": "images/menu/mini-pancakes-30-1280.avif",
+          "px": 1280,
+          "py": 1547,
+          "bytes": 79811,
+          "sha256": "c2b3bf908c7b8d06e97878b105a350a52d8916f119259b44440837aed39ca617"
+        }
+      ],
+      "jpg": [
+        {
+          "width": 480,
+          "file": "images/menu/mini-pancakes-30-480.jpg",
+          "px": 480,
+          "py": 580,
+          "bytes": 41579,
+          "sha256": "e4b791a39de954a02cddcb700dc55a91895055fabd6c22a1f484a7449b7e5e5b"
+        },
+        {
+          "width": 960,
+          "file": "images/menu/mini-pancakes-30-960.jpg",
+          "px": 960,
+          "py": 1160,
+          "bytes": 122490,
+          "sha256": "8eadc727b76cc69105552fd80ecab52ceb6292939026b1c1f17279e285da5b91"
+        }
+      ]
+    }
+  ]
+}
